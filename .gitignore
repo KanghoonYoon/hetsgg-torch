@@ -1,0 +1,14 @@
+build/
+Datasets/VG/VG-SGG-with-attri.h5
+Datasets/VG/VG-SGG-dicts-with-attri.json
+Datasets/VG/image_data.json
+Datasets/VG/VG_100k
+Datasets/Glove/*.txt
+Datasets/Glove/*.pt
+configs/
+shell/
+checkpoints/
+apex/
+cocoapi/
+__pycache__
+*.so
