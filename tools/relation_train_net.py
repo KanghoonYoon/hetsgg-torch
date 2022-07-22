@@ -50,6 +50,8 @@ torch.autograd.set_detect_anomaly(False)
 
 SHOW_COMP_GRAPH = False
 
+torch.cuda.set_device(0)
+
 
 def show_params_status(model):
     """
