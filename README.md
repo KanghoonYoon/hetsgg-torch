@@ -1,6 +1,6 @@
 # Guideline(Installation)  
 
-It is Pytorch Implementation for the paper "Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Network". Kanghoon Yoon, Kibum Kim, Jinyoung Moon, Chanyoung Park. **(AAAI-23)**
+This is Official Pytorch Implementation for the paper "Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Network". Kanghoon Yoon, Kibum Kim, Jinyoung Moon, Chanyoung Park. **(AAAI-23)**
 
 The paper is available at Link (To be updated)
 
