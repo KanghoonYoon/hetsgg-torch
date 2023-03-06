@@ -1,16 +1,34 @@
-# Guideline(Installation)  
+# Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Network
+
+<p align="center">   
+    <a href="https://pytorch.org/" alt="PyTorch">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
+    <a href="https://aaai.org/Conferences/AAAI-23/" alt="Conference">
+        <img src="https://img.shields.io/badge/AAAI'23-brightgreen" /></a>
+</p>
+
 
 This is Official Pytorch Implementation for the paper "Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Network". Kanghoon Yoon, Kibum Kim, Jinyoung Moon, Chanyoung Park. **(AAAI-23)**
 
-The paper is available at Link (To be updated)
+The paper is available at [Link][https://arxiv.org/abs/2212.00443]
 
 We refer the below baseline code to build our implementation.
 [https://github.com/SHTUPLUS/PySGG](https://github.com/SHTUPLUS/PySGG)
 
 
 
-## Citation
-(To be updated)
+### Cite (Bibtex)
+- If you find ``HetSGG`` useful in your research, please cite the following paper:
+  - Kanghoon Yoon, Kibum Kim, Jinyoung Moon, Chanyoung Park. "Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Network"
+  - Bibtex
+```
+@article{yoon2023hetsgg,
+  title={Unbiased Heterogeneous Scene Graph Generation with Relation-aware Message Passing Network},
+  author={Kanghoon Yoon, Kibum Kim, Jinyoung Moon, Chanyoung Park},
+  booktitle={AAAI},
+  year={2023}
+}
+```
 
 
 ## Dataset  
